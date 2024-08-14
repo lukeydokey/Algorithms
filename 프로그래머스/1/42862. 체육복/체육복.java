@@ -1,5 +1,4 @@
 class Solution {
-    public int answer = 0;
     public int solution(int n, int[] lost, int[] reserve) {
         int[] students = new int[n];
         for(int i=0;i<n;i++){
